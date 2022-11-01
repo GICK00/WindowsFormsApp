@@ -87,7 +87,8 @@
             "По фамилии (в алфавитном)",
             "По имени (в алфавитном)",
             "По группе",
-            "Загрузить файл в проект"});
+            "Загрузить файл в проект",
+            "Отсортировать данные в проекте"});
             this.comboBox1.Location = new System.Drawing.Point(140, 80);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(172, 21);
